@@ -1,0 +1,3 @@
+﻿  main.cpp
+LIBCMTD.lib(exe_wwinmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _wWinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\C++\Free1_2\Debug\Free1_2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
